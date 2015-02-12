@@ -1,6 +1,6 @@
 # Camille Zagadka (Wrocław, 1902 - † Gross-Rosen, 1944)
 ![kamil](https://raw.githubusercontent.com/EtienneOz/Camille-Zagadka/master/medias/jour21.jpg)  
-<sup>Camille Zagadkae en 1920 à Douai dans le [bassin minier du Nord-Pas-De-Calais](http://fr.wikipedia.org/wiki/Bassin_minier_du_Nord-Pas-de-Calais).<sup>   
+<sup>Camille Zagadkae en 1920 à Douai dans le [bassin minier du Nord-Pas-De-Calais](http://fr.wikipedia.org/wiki/Bassin_minier_du_Nord-Pas-de-Calais).</sup>   
 Camille Zagadka (né Kamil Zagadka), né à [Wrocław](http://fr.wikipedia.org/wiki/Wroc%C5%82aw) (Pologne) le 13 février 1902  
 ![Wroclaw map](https://raw.githubusercontent.com/EtienneOz/Camille-Zagadka/master/medias/Wroc%C5%82aw-bd.jpeg)  
 <sup>Carte de Wroclaw en 1902</sup>  
