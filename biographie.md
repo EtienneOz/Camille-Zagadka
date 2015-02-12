@@ -1,6 +1,6 @@
 # Camille Zagadka (Wrocław, 1902 - † Gross-Rosen, 1944)
 ![kamil](https://raw.githubusercontent.com/EtienneOz/Camille-Zagadka/master/medias/jour21.jpg)  
-<sup>Camille Zagadkae en 1920 à Douai dans le [bassin minier du Nord-Pas-De-Calais](http://fr.wikipedia.org/wiki/Bassin_minier_du_Nord-Pas-de-Calais).</sup>
+<sup>Camille Zagadkae en 1920 à Douai dans le [bassin minier du Nord-Pas-De-Calais](http://fr.wikipedia.org/wiki/Bassin_minier_du_Nord-Pas-de-Calais).</sup>  
 Camille Zagadka (né Kamil Zagadka), né à [Wrocław](http://fr.wikipedia.org/wiki/Wroc%C5%82aw) (Pologne) le 13 février 1902  
 ![Wroclaw map](https://raw.githubusercontent.com/EtienneOz/Camille-Zagadka/master/medias/Wroc%C5%82aw-bd.jpeg)  
 <sup>Carte de Wroclaw en 1902</sup>  
@@ -25,7 +25,7 @@ Il restera un an au camp concentration de [Gross-Rosen](https://fr.wikipedia.org
 # Son œuvre
 
 ## Philosophie
-Camille Zagadka est considéré par certains comme un précurseur de la culture libre. Sa position radicale quand à la diffusion des connaissances n'est pas sans rappeler cette dernière. Conscient de l'importance de l'éducation de la classe ouvrière, il défend la liberté de distribuer sans restriction toute œuvre de l'esprit. C'est pour lui une extension logique à la philospophie communiste s'opposant à la propriété privée et la privatisation des biens matériels, y ajoutant la notion de propriété intellectuelle et la libération des biens intellectuels. D'autre part, il considère que seul un accès total à la connaissance pour tous garantira une société sans classes sociales et permettra à la révolution communiste d'aboutir.
+Camille Zagadka est considéré par certains comme un précurseur de la culture libre. Sa position radicale quand à la diffusion des connaissances n'est pas sans rappeler cette dernière. Conscient de l'importance de l'éducation de la classe ouvrière, il défend la liberté de distribuer sans restriction toute œuvre de l'esprit. C'est pour lui une extension logique à la philospophie communiste s'opposant à la propriété privée et la privatisation des biens matériels, y ajoutant la notion de propriété intellectuelle et la libération des biens intellectuels. D'autre part, il considère que seul un accès total à la connaissance pour tous garantira une société sans classes sociales et permettra à la révolution communiste d'aboutir. Contre toute forme de privatisaton de la culture, il autorisait à quiconque la réutilisation et la rediffusion de ses écrits dans aucune restriction.
 ## Art
-
+Le travail artistique de Camille Zagadka reste méconnu et incertain. Du fait de la confusion engendrée par la seconde guerre mondiale et de la précipitation avec laquelle il a dû se cacher et conserver sa clandestinité, l'œuvre artistique de Zagadka est fragmentée et découverte progressivement.  
 ## Son testament, l'œuvre de sa vie
