@@ -25,8 +25,7 @@ Il restera un an au camp concentration de [Gross-Rosen](https://fr.wikipedia.org
 # Son œuvre
 
 ## Philosophie
-
-
+Camille Zagadka est considéré par certains comme un précurseur de la culture libre. Sa position radicale quand à la diffusion des connaissances n'est pas sans rappeler cette dernière. Conscient de l'importance de l'éducation de la classe ouvrière, il défend la liberté de distribuer sans restriction toute œuvre de l'esprit. C'est pour lui une extension logique à la philospophie communiste s'opposant à la propriété privée et la privatisation des biens matériels, y ajoutant la notion de propriété intellectuelle et la libération des biens intellectuels. D'autre part, il considère que seul un accès total à la connaissance pour tous garantira une société sans classes sociales et permettra à la révolution communiste d'aboutir.
 ## Art
 
 ## Son testament, l'œuvre de sa vie
