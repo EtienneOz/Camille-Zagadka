@@ -1,9 +1,9 @@
 # Camille Zagadka (Wrocław, 1902 - † Gross-Rosen, 1944)
 ![kamil](https://raw.githubusercontent.com/EtienneOz/Camille-Zagadka/master/medias/jour21.jpg)  
-<small>Camille Zagadkae en 1920 à Douai dans le [bassin minier du Nord-Pas-De-Calais](http://fr.wikipedia.org/wiki/Bassin_minier_du_Nord-Pas-de-Calais).<small>   
+<sup>Camille Zagadkae en 1920 à Douai dans le [bassin minier du Nord-Pas-De-Calais](http://fr.wikipedia.org/wiki/Bassin_minier_du_Nord-Pas-de-Calais).<sup>   
 Camille Zagadka (né Kamil Zagadka), né à [Wrocław](http://fr.wikipedia.org/wiki/Wroc%C5%82aw) (Pologne) le 13 février 1902  
 ![Wroclaw map](https://raw.githubusercontent.com/EtienneOz/Camille-Zagadka/master/medias/Wroc%C5%82aw-bd.jpeg)  
-<small>Carte de Wroclaw en 1902</small>  
+<sup>Carte de Wroclaw en 1902</sup>  
 et mort au camp de concentration de [Gross-Rosen](https://fr.wikipedia.org/wiki/Gross-Rosen) le 13 avril 1944 est un intellectuel communiste et artiste Franco-polonais, considéré comme un précurseur de la [culture libre](https://fr.wikipedia.org/wiki/Culture_libre). Son travail reste encore pratiquement inconnu du public malgré un regain d'intérêt croissant pour son œuvre hybride constituant [...]  
 
 ## Biographie
