@@ -11,5 +11,6 @@ Camille Zagadka est né de Stefka Zagadka et Yaroslav Zagadka, avocat issu d'une
 Suite au [traité de Versailles](http://fr.wikipedia.org/wiki/Trait%C3%A9_de_Versailles) du 28 juin 1918, l'État polonais devient un allié de la République française et à ce titre est sollicité pour fournir à l'économie française la main-d'œuvre qui lui fait défaut, étant donné les pertes de la Première Guerre mondiale. C'est ainsi que Kamil Zagadka immigre en France durant l'été 1918 et devient ouvrier mineur à Douai dans le Nord-Pas-De-Calais.  
 ![carte](http://upload.wikimedia.org/wikipedia/commons/1/14/BassinminierglobalNordPDC.svg?uselang=fr)  
 ![mineur](https://raw.githubusercontent.com/EtienneOz/Camille-Zagadka/master/medias/jour17.jpg)
+<sup>Camille Zagadkae en 1921 à Douai dans le [bassin minier du Nord-Pas-De-Calais](http://fr.wikipedia.org/wiki/Bassin_minier_du_Nord-Pas-de-Calais).</sup>   
 
 Mauvais climat pour les communistes en Pologne à cette époque.
