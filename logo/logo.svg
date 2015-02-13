@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.175"
-     inkscape:cx="3048.3657"
-     inkscape:cy="1355.8488"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="1040.5666"
+     inkscape:cy="2011.2021"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -55,7 +55,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -75,7 +75,7 @@
            x="75.761444"
            y="202.82391"
            style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Inknut Antiqua';-inkscape-font-specification:'Inknut Antiqua Light'" /></flowRegion><flowPara
-         id="flowPara3342"></flowPara></flowRoot>    <text
+         id="flowPara3342" /></flowRoot>    <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:121.66257477px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="-908.32971"
@@ -86,10 +86,10 @@
          id="tspan3346"
          x="-908.32971"
          y="513.422"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Inknut Antiqua';-inkscape-font-specification:'Inknut Antiqua Semi-Bold'">Fondation </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Inknut Antiqua';-inkscape-font-specification:'Inknut Antiqua Light'">Fondation</tspan><tspan
          sodipodi:role="line"
          x="-908.32971"
-         y="665.50024"
+         y="664.36597"
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Inknut Antiqua';-inkscape-font-specification:'Inknut Antiqua Semi-Bold'"
          id="tspan4479">Camille Zagadka</tspan></text>
     <flowRoot
@@ -102,7 +102,7 @@
            height="74.285713"
            x="223.57143"
            y="282.36221" /></flowRegion><flowPara
-         id="flowPara3354"></flowPara></flowRoot>    <text
+         id="flowPara3354" /></flowRoot>    <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:144.27528381px;line-height:125%;font-family:Aileron;-inkscape-font-specification:'Aileron Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="-858.73962"
