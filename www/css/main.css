@@ -40,7 +40,6 @@ header{
 	font-weight: normal;
 	font-family: 'inknut_antiquasemibold';
 	z-index: 10;
-
 }
 
 
@@ -103,7 +102,9 @@ h1, h2{
 
 .content img.intxt{
 	display: inline;
-	height: 23px;
+	height: 22px;
+	border: 2px solid black;
+	cursor: pointer;
 }
 
 .content h1{
@@ -125,5 +126,12 @@ h1, h2{
 
 
 .big{
-	height: 400px;
+	height: 500px;
+	cursor: pointer;
+
+}
+
+.testa{
+	width: 40%;
+	margin-right: 15px;
 }
